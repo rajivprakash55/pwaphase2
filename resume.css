@@ -1,0 +1,31 @@
+body{
+	background: bisque;
+	justify-content: space-around;
+}
+.maindiv{
+	background: #BE2525;
+	margin: 4%;
+    display: flex;
+    justify-content: space-around;
+}
+.leftdiv{
+	background: orange;
+	border-radius: 3%;
+	text-align: center;
+	width: 30%;
+	height: 50%;
+	box-shadow: 4px 4px 4px 4px;
+	margin: 3%;
+}
+.rightdiv{
+	background: pink;
+	margin: 4%;
+	border-radius: 2%;
+	box-shadow: 4px 4px 4px 4px;
+	width: 60%;
+	padding: 2%;
+}
+img{
+	width: 40%;
+	height: 35%;
+}
